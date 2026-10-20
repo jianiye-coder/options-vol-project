@@ -1,0 +1,156 @@
+{
+  "asof": "2026-10-19",
+  "fetched_at_utc": "2026-10-20T01:48:57+00:00",
+  "source": "Yahoo Finance via yfinance",
+  "tickers": {
+    "SPY": {
+      "spot": 766.47998046875,
+      "dividends_trailing_12m": 7.583,
+      "market_cap": null,
+      "n_expiries": 26,
+      "n_contracts": 8114
+    },
+    "AAPL": {
+      "spot": 342.94000244140625,
+      "dividends_trailing_12m": 1.06,
+      "market_cap": 5004928221184,
+      "n_expiries": 16,
+      "n_contracts": 1902
+    },
+    "NVDA": {
+      "spot": 217.08999633789062,
+      "dividends_trailing_12m": 0.52,
+      "market_cap": 5242072072192,
+      "n_expiries": 17,
+      "n_contracts": 2769
+    },
+    "MSFT": {
+      "spot": 533.52001953125,
+      "dividends_trailing_12m": 3.64,
+      "market_cap": 3961677414400,
+      "n_expiries": 4,
+      "n_contracts": 631
+    },
+    "AMZN": {
+      "spot": 262.45001220703125,
+      "dividends_trailing_12m": 0.0,
+      "market_cap": 2830868152320,
+      "n_expiries": 4,
+      "n_contracts": 366
+    },
+    "GOOGL": {
+      "spot": 344.17999267578125,
+      "dividends_trailing_12m": 0.86,
+      "market_cap": 4209298898944,
+      "n_expiries": 4,
+      "n_contracts": 630
+    },
+    "META": {
+      "spot": 705.4400024414062,
+      "dividends_trailing_12m": 2.1,
+      "market_cap": 1797112725504,
+      "n_expiries": 4,
+      "n_contracts": 1093
+    },
+    "AVGO": {
+      "spot": 334.5899963378906,
+      "dividends_trailing_12m": 2.6,
+      "market_cap": 1597208788992,
+      "n_expiries": 4,
+      "n_contracts": 710
+    },
+    "TSLA": {
+      "spot": 368.05999755859375,
+      "dividends_trailing_12m": 0.0,
+      "market_cap": 1453670400000,
+      "n_expiries": 4,
+      "n_contracts": 845
+    },
+    "BRK-B": {
+      "spot": 532.22998046875,
+      "dividends_trailing_12m": 0.0,
+      "market_cap": 1139349913600,
+      "n_expiries": 4,
+      "n_contracts": 331
+    },
+    "JPM": {
+      "spot": 333.5299987792969,
+      "dividends_trailing_12m": 6.15,
+      "market_cap": 885722316800,
+      "n_expiries": 4,
+      "n_contracts": 348
+    },
+    "LLY": {
+      "spot": 1240.3399658203125,
+      "dividends_trailing_12m": 6.6899999999999995,
+      "market_cap": 1106062475264,
+      "n_expiries": 4,
+      "n_contracts": 767
+    },
+    "V": {
+      "spot": 402.9200134277344,
+      "dividends_trailing_12m": 2.68,
+      "market_cap": 756423983104,
+      "n_expiries": 4,
+      "n_contracts": 343
+    },
+    "WMT": {
+      "spot": 118.69999694824219,
+      "dividends_trailing_12m": 0.979,
+      "market_cap": 944623976448,
+      "n_expiries": 4,
+      "n_contracts": 266
+    },
+    "ORCL": {
+      "spot": 129.58999633789062,
+      "dividends_trailing_12m": 2.0,
+      "market_cap": 392852209664,
+      "n_expiries": 4,
+      "n_contracts": 430
+    },
+    "XOM": {
+      "spot": 178.27999877929688,
+      "dividends_trailing_12m": 4.12,
+      "market_cap": 733071671296,
+      "n_expiries": 4,
+      "n_contracts": 197
+    },
+    "MA": {
+      "spot": 616.4000244140625,
+      "dividends_trailing_12m": 3.48,
+      "market_cap": 539972534272,
+      "n_expiries": 4,
+      "n_contracts": 387
+    },
+    "NFLX": {
+      "spot": 69.8499984741211,
+      "dividends_trailing_12m": 0.0,
+      "market_cap": 290851160064,
+      "n_expiries": 4,
+      "n_contracts": 912
+    },
+    "COST": {
+      "spot": 995.530029296875,
+      "dividends_trailing_12m": 5.54,
+      "market_cap": 441148571648,
+      "n_expiries": 4,
+      "n_contracts": 563
+    },
+    "JNJ": {
+      "spot": 253.7899932861328,
+      "dividends_trailing_12m": 5.28,
+      "market_cap": 611608100864,
+      "n_expiries": 4,
+      "n_contracts": 184
+    },
+    "PG": {
+      "spot": 157.69000244140625,
+      "dividends_trailing_12m": 4.292,
+      "market_cap": 366262222848,
+      "n_expiries": 4,
+      "n_contracts": 171
+    }
+  },
+  "irx_pct": 4.074999809265137,
+  "vix_pct": 18.440000534057617
+}
