@@ -1,6 +1,6 @@
 # Options Greeks & volatility: a hands-on study on real chains
 
-A small, self-contained Python project that prices options with Black–Scholes–Merton,
+A personal Python project that prices options with Black–Scholes–Merton,
 backs implied volatility out of real market quotes, computes the Greeks, and uses them
 to answer three volatility-trading questions:
 
